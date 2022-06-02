@@ -1,0 +1,5 @@
+MDK-ARM/*
+!MDK-ARM/MP157DA.uvoptx
+!MDK-ARM/MP157DA.uvprojx
+!MDK-ARM/startup_stm32mp15xx.s
+!MDK-ARM/stm32mp15xx_m4.sct
